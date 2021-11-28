@@ -2,7 +2,7 @@ package Algorithm_Programs;
 
 public class InsertionSorting {
 
-public void InsertionSorting(int[] Array) {
+public void InsertionSort(int[] Array) {
 	
 	for(int i=0;i < Array.length;i++) {
 		
